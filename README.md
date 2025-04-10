@@ -32,8 +32,8 @@
 7.	Compile that file with C compiler and verify the output.
 # PROGRAM
 ```
-Developed by: Ragavendran A
-Register no: 212222230114
+Developed by: Sanjai S
+Register no: 212223230185
 ```
 ```
 #include <stdio.h>
@@ -82,8 +82,7 @@ int main() {
 ```
 # OUTPUT
 
-![Screenshot 2024-09-26 142243](https://github.com/user-attachments/assets/840d958b-7929-4e08-8734-4b1178df8d40)
-
+![Screenshot 2025-04-10 110640](https://github.com/user-attachments/assets/a764e5ae-7702-4809-b097-d4be47280f26)
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
